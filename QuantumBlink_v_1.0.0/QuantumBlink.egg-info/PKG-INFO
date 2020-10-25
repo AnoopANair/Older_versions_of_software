@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: QuantumBlink
+Version: 1.0.0
+Summary: A Python package to flouresence intermittency data of quantum dots
+Home-page: https://github.com/AnoopANair/QuantumBlink
+Author: Anoop A Nair {K.G.T. group}
+Author-email: mailtoanoop71@gmail.com
+License: MIT
+Description: # QuantumBlink
+        ### This library can be used to analyze intermittency data from quantum dots. 
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
