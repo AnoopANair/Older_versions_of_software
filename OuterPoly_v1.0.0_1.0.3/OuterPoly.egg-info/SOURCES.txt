@@ -1,0 +1,8 @@
+README.md
+setup.py
+OuterPoly/OuterPoly.py
+OuterPoly/__init__.py
+OuterPoly.egg-info/PKG-INFO
+OuterPoly.egg-info/SOURCES.txt
+OuterPoly.egg-info/dependency_links.txt
+OuterPoly.egg-info/top_level.txt
